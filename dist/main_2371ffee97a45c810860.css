@@ -212,25 +212,6 @@ a {
         @media screen and (max-width: 720px) {
           .content-hd .contact ul > li {
             display: inline-block; } }
-        .content-hd .contact ul > li > a {
-          color: #fff;
-          font-family: "Lucida Grande", "Hiragino Sans GB", "Hiragino Sans GB W3", "Helvetica Neue", Helvetica, Arial, "Microsoft YaHei", sans-serif;
-          font-size: 14px;
-          line-height: 22px; }
-          @media print {
-            .content-hd .contact ul > li > a {
-              color: #000; } }
-          .content-hd .contact ul > li > a:hover {
-            color: #e8e8e8; }
-          @media screen and (max-width: 720px) {
-            .content-hd .contact ul > li > a .contact-link {
-              display: none; } }
-          .content-hd .contact ul > li > a .iconfont {
-            fill: #fff;
-            vertical-align: text-top; }
-            @media screen and (max-width: 720px) {
-              .content-hd .contact ul > li > a .iconfont {
-                margin: 5px 8px; } }
 
 .content-bd {
   width: 100%;
